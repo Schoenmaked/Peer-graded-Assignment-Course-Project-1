@@ -125,7 +125,7 @@ library(lattice)
 
 xyplot(x ~ Group.1|Group.2,data=daytypeDiff,type="l",layout=c(1,2),xlab="Interval",ylab="Number of Steps")
 
-install.packages("markdown")
+
   
 
 
